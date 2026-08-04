@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Barishal Organic Dairy Cow",
             "type": "Cow",
-            "breed": "Barishal Breed",
+            "breed": "Barishal",
             "price": 185000,
             "weight": 360,
             "teeth": 2,
@@ -55,7 +55,7 @@
             "id": 4,
             "name": "Kashmiri Long-Hair Goat",
             "type": "Goat",
-            "breed": "Kashmiri Cross",
+            "breed": "Kashmiri",
             "price": 54000,
             "weight": 46,
             "teeth": 2,
@@ -69,13 +69,13 @@
             "rating": 4.9
         }
     ],
-    
+
     "animals": [
         {
             "id": 1,
             "name": "Barishal Organic Dairy Cow",
             "type": "Cow",
-            "breed": "Barishal Breed",
+            "breed": "Barishal",
             "price": 185000,
             "weight": 360,
             "teeth": 2,
@@ -126,7 +126,7 @@
             "id": 4,
             "name": "Kashmiri Long-Hair Goat",
             "type": "Goat",
-            "breed": "Kashmiri Cross",
+            "breed": "Kashmiri",
             "price": 54000,
             "weight": 46,
             "teeth": 2,
@@ -194,7 +194,7 @@
             "id": 8,
             "name": "Red Chittagong Cattle",
             "type": "Cow",
-            "breed": "RCC",
+            "breed": "Rcc",
             "price": 160000,
             "weight": 340,
             "teeth": 2,
@@ -313,7 +313,7 @@
             "id": 15,
             "name": "Rajshahi Royal Cow",
             "type": "Cow",
-            "breed": "Rajshahi Hybrid",
+            "breed": "Rajshahi",
             "price": 265000,
             "weight": 540,
             "teeth": 4,
