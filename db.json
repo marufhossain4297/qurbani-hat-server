@@ -10,7 +10,7 @@
             "age": 3.5,
             "location": "Comilla",
             "description": "Massive Brahma cross bull featuring a large shoulder hump and deep chest structure. Raised in an eco-friendly farm environment in Comilla on high-protein silage, green forage, and mineral salt blocks. Demonstrates incredible muscle density, calm temperament, and complete health vitality. Managed under daily veterinary care with up-to-date vaccinations and deworming. Guaranteed to impress as a premier choice for festive Qurbani occasions.",
-            "image": "https://images.unsplash.com/photo-1593046584078-ddc9dc530ca0?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "image": "https://images.unsplash.com/photo-1467217322460-5f03dc33a28e?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "category": "Large Animal"
         },
         {
@@ -53,6 +53,7 @@
             "category": "Small Animal"
         }
     ],
+    
     "animals": [
         {
             "id": 1,
@@ -64,7 +65,7 @@
             "age": 3.5,
             "location": "Comilla",
             "description": "Massive Brahma cross bull featuring a large shoulder hump and deep chest structure. Raised in an eco-friendly farm environment in Comilla on high-protein silage, green forage, and mineral salt blocks. Demonstrates incredible muscle density, calm temperament, and complete health vitality. Managed under daily veterinary care with up-to-date vaccinations and deworming. Guaranteed to impress as a premier choice for festive Qurbani occasions.",
-            "image": "https://images.unsplash.com/photo-1593046584078-ddc9dc530ca0?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "image": "https://images.unsplash.com/photo-1467217322460-5f03dc33a28e?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "category": "Large Animal"
         },
         {
