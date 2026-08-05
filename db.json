@@ -73,11 +73,11 @@
             "reviewsCount": 31
         }
     ],
-    
+
     "animals": [
         {
             "id": 1,
-            "name": "Barishal Organic Dairy Cow",
+            "name": "Organic Dairy Cow",
             "type": "Cow",
             "breed": "Barishal",
             "price": 185000,
@@ -113,7 +113,7 @@
         },
         {
             "id": 3,
-            "name": "Tharparkar Desert Bull",
+            "name": "Tharparkar Bull",
             "type": "Bull",
             "breed": "Tharparkar",
             "price": 220000,
@@ -131,7 +131,7 @@
         },
         {
             "id": 4,
-            "name": "Kashmiri Long-Hair Goat",
+            "name": "Kashmiri Goat",
             "type": "Goat",
             "breed": "Kashmiri",
             "price": 54000,
@@ -167,7 +167,7 @@
         },
         {
             "id": 6,
-            "name": "Premium Shahi Bull #SH-402",
+            "name": "Premium Shahi Bull",
             "type": "Bull",
             "breed": "Shahiwal",
             "price": 245000,
@@ -203,7 +203,7 @@
         },
         {
             "id": 8,
-            "name": "Red Chittagong Cattle",
+            "name": "Chittagong Cattle",
             "type": "Cow",
             "breed": "Rcc",
             "price": 160000,
@@ -257,7 +257,7 @@
         },
         {
             "id": 11,
-            "name": "Gir Breed Champion Cattle",
+            "name": "Champion Cattle",
             "type": "Cow",
             "breed": "Gir",
             "price": 290000,
@@ -293,7 +293,7 @@
         },
         {
             "id": 13,
-            "name": "Holstein Friesian Cross",
+            "name": "Holstein Friesian",
             "type": "Bull",
             "breed": "Friesian Cross",
             "price": 310000,
